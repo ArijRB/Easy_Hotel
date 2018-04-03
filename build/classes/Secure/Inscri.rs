@@ -1,0 +1,10 @@
+hotel.Inscri$1
+hotel.Inscri$5
+hotel.Inscri$4
+hotel.Inscri$3
+hotel.Inscri$2
+hotel.Inscri$9
+hotel.Inscri
+hotel.Inscri$8
+hotel.Inscri$7
+hotel.Inscri$6
